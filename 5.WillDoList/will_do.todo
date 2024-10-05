@@ -1,6 +1,14 @@
 First Task:
   前日のやり残し:
-    []
+    ☐ 
   
 Daily Task:
-  []
+  ☐ 
+
+
+
+// 'Cmd/Ctrl+Enter' Todoを作る/解除する
+// 'Alt+D' Doneにする
+// 'Alt+C' キャンセルにする
+// 'Alt+S' タスク開始にする
+// 'Cmd/Ctrl+Shift+A' アーカイブにする
